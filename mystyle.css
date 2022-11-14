@@ -3,7 +3,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(80, 111, 80);
+    border-radius: 10px;
   }
   
   li {
@@ -20,7 +21,7 @@ ul {
   }
   
   li a:hover {
-    background-color: rgb(46, 103, 160);
+    background-color:rgb(111, 154, 111)
   }
 
  h1{
@@ -35,4 +36,9 @@ ul {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
-  }
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+  
