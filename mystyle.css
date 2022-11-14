@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  li a:hover {
+    background-color: rgb(46, 103, 160);
+  }
+
+ h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+  
+  body {background-color: rgb(175, 206, 233);}
+
+  .leftside{ 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+  }
