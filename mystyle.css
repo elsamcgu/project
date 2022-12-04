@@ -166,3 +166,10 @@ div.desc {
   opacity: 1;
   right: 0;
 }
+
+.more-paragraph {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+}
