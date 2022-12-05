@@ -71,9 +71,13 @@ h1{
     text-align: left;
     width: 350px;
     background-color: rgb(80, 111, 80);
-    border: 5px solid rgb(111, 154, 111);
-    padding: 10px;
+    border: 2px solid rgb(111, 154, 111);
+    padding: 20px;
     margin: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px #787878;
+    line-height: 19pt;
+    font-size: 14pt;
 }
   
 div.gallery {
@@ -167,9 +171,28 @@ div.desc {
   right: 0;
 }
 
+h2{
+  text-align: center;
+}
+
+
 .more-paragraph {
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
   color: white;
-
+  text-shadow: #191919;
+  width: 450px;
+  background-color: rgb(80, 111, 80);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px #787878;
+  line-height: 19pt;
+  font-size: 14pt;
 }
+
+.image-right{
+float: right;
+ 
+}
+  
