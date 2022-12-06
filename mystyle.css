@@ -241,9 +241,10 @@ text-shadow: #343434;
 
 .intro{
  display: flex;
+ padding-top: 30px;
 }
 
 .whole{
 display: flex;
-
+padding-top: 30px;
 }
