@@ -31,3 +31,6 @@
   
 //   console.log(person.greeting());
 
+// function myFunction() {
+//     document.getElementById("demo").innerHTML = "Hello World";
+//   }
